@@ -20,5 +20,6 @@ public class MemberController {
         System.out.println("MemberController.save");
         System.out.println("memberEmail = " + memberEmail);
         return "index";
+        // 브랜치 테스트
     }
 }
